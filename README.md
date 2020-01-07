@@ -2,6 +2,8 @@
 
 Learn how you can perform selection in the Syncfusion Angular Tree Grid control. This example contains the selection types, selection modes, cell selection modes, and check box selection with its modes. Also explained using APIs to select cells, rows, and check boxes.
 
+Watch the video now: http://172.16.0.76:9797/tutorial-videos/angular/treegrid?title=how-to-perform-selection-in-an-angular-tree-grid
+
 Documentation: https://ej2.syncfusion.com/angular/documentation/treegrid/selection
 
 
